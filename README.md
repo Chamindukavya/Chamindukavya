@@ -20,8 +20,8 @@ I'm a passionate software developer with a keen interest in game and web develop
 
 ## 📊 My GitHub Stats
 
-![Chamindu Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Chamindu Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamindukavya&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamindukavya&layout=compact&theme=dark)
 
 ## 📬 Connect with Me
 
